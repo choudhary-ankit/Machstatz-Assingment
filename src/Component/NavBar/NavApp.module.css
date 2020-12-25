@@ -1,0 +1,38 @@
+.toolbar{
+    width: 90%;
+    height: auto;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "SF-Fourche" !important;
+}
+.logo{
+    widows: 50%;
+    height: auto;
+}
+.btn_arrng{
+    width: 20%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.title{
+    color: #45d8ff !important;
+    text-transform: uppercase !important;
+    text-shadow: 0 0 10px #3cf0ff, 0 0 25px #3cf0ff, 0 0 50px #3cf0ff !important;
+    font-family: "SF-Fourche" !important;
+}
+.btn{
+    color: #45d8ff !important;
+    text-shadow: 0 0 20px #2fd7e4 !important;
+    text-transform: none !important;
+    font-family: "SF-Fourche" !important;
+    font-size: 17px !important;
+}
+.btn:hover{
+    text-shadow: 0 0 10px #3cf0ff, 0 0 25px #3cf0ff, 0 0 50px #3cf0ff !important;
+}
