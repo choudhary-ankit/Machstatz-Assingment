@@ -40,5 +40,5 @@ According to given task created a simpal one page layout with implementing Api c
 3) Implemented logic and basic flow
 4) Implemented basic UI
 5) Imporved UI and functionlities 
-6) Tested for use cases and UI bux
+6) Tested for use cases and UI bug
 7) Improved UI and Optimized codes
